@@ -45,6 +45,10 @@ const Home: React.FC = () => {
             position: { lat: -3.0925, lng: -59.985194 },
             route: `${url}/1e1ab793-a4f7-4e6f-87d9-8d645bf02eae`,
           },
+          {
+            position: {},
+            route: `${url}/`,
+          },
           // mais marcadores vão aqui !!!
         ];
 
